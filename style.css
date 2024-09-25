@@ -494,16 +494,16 @@ body{
     .Tokoh-Brook h3{
         display: none;
     }
-    .Tokoh-Brook .brook{
+    .Tokoh-Brook .Brook{
         background: #FFDBC5;
     }
-    .Tokoh-Brook .brook button{
+    .Tokoh-Brook .Brook button{
         background-color: #E36415;
     }
-    .Tokoh-Brook .jinbie{
+    .Tokoh-Brook .Jinbie{
         background: #8FC5ED;
     }
-    .Tokoh-Brook .jinbie button{
+    .Tokoh-Brook .Jinbie button{
         background-color: #275E87;
     }
     .Tokoh-Brook button{
